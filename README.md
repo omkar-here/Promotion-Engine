@@ -1,7 +1,7 @@
 # Promotion_Engine
 > We have made a dummy site for testing out headless Promotion engine for generating Coupons for promoting sales on other platforms by integrating our API's with them.
 
-Link to the Pizza Site made [Client Repo](https://github.com/omkar-here/Pizza-Site) we made
+Link to the [Pizza Site](https://github.com/omkar-here/Pizza-Site) we made
 
 Complete Project is there in the main branch.
 A coupon generator platform that allows businesses of all sizes to create and distribute coupons easily and efficiently. You can develop your own promotion engine which also lets vendors make their own schemes, gift cards or coupon systems.
